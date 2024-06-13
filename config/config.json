@@ -1,3 +1,4 @@
 {
     "SecretsPath": "config/gcp.json"
+    "AlbumName": "Gwynniebook"
 }
